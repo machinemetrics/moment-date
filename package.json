@@ -1,0 +1,15 @@
+{
+  "name": "moment-date",
+  "description": "A moment-backed Date adapter for rrule",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "./src",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/machinemetrics/moment-date"
+  },
+  "dependencies": {
+    "moment": "~2.9.0",
+    "moment-timezone": "~0.3.0"
+  }
+}
