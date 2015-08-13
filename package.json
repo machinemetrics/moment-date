@@ -3,7 +3,7 @@
   "description": "A moment-backed Date adapter for rrule",
   "version": "0.1.0",
   "license": "MIT",
-  "main": "./src",
+  "main": "lib",
   "repository": {
     "type": "git",
     "url": "https://github.com/machinemetrics/moment-date"
